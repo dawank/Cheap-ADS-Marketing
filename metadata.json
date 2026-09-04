@@ -1,0 +1,6 @@
+{
+  "name": "CheapAds Pro - Facebook Marketing & Automation Hub",
+  "description": "Platform otomasi pemasaran Facebook multi-akun canggih dengan Spintax 4-layer, integrasi browser nyata, pelacakan analitik 24 jam, dan bank link terpusat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
